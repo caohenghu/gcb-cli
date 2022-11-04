@@ -2,7 +2,7 @@
 
 > It means `git checkout -b`
 
-<video src="assets/2022-11-04-21-56-14.webm"></video>
+<iframe src="assets/2022-11-04-21-56-14.webm"></iframe>
 
 ## Install
 
