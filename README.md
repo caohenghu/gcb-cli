@@ -2,10 +2,12 @@
 
 > It means `git checkout -b`
 
+<video src="assets/2022-11-04-21-56-14.webm"></video>
+
 ## Install
 
 ```sh
-npm i -g gcb-cli
+npm i -g @caohenghu/gcb-cli
 ```
 
 ## Example
