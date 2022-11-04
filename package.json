@@ -1,0 +1,18 @@
+{
+  "name": "@caohenghu/gcb-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "gcb-cli": "bin/index.js"
+  },
+  "keywords": [
+    "git",
+    "git checkout"
+  ],
+  "author": "caohenghu <caohenghu@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "shelljs": "^0.8.5"
+  }
+}
