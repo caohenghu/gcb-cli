@@ -6,7 +6,7 @@ const shell = require('shelljs')
 const version = require('../package.json').version
 
 if (!shell.which('git')) {
-  shell.echo('Sorry, this script requires git')
+  shell.echo('sorry, this script requires git')
   shell.exit(1)
 }
 
@@ -21,7 +21,7 @@ program.version(version, '-v, --version')
 
 program
   .argument('<featureName>')
-  .description('create new featureName!')
+  .description('create new branch')
   .action(featureName => {
     const branchName = dateStr + '_' + dirName + '_' + featureName
     shell.exec('git checkout -b ' + branchName)
