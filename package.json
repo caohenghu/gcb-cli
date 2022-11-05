@@ -1,6 +1,6 @@
 {
   "name": "@caohenghu/gcb-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "create a formatted branch",
   "bin": {
     "gcb-cli": "bin/index.js"
