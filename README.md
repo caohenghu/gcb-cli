@@ -11,10 +11,10 @@ $ npm i -g @caohenghu/gcb-cli
 ## Usage
 
 ```sh
-$ gcb-cli zzz
+$ gcb-cli mmm
 ```
 
-Will create a formatted branch like this `20221104_ygp-mall-pc-static_zzz`, the format is `date_directory_name`.
+Will create a formatted branch like this `20221104_ygp-mall-pc-static_mmm`, the format is `date_directory_name`.
 
 ![preview](https://cdn.staticaly.com/gh/caohenghu/resource@master/gcb-cli.6dc0y0j6cj40.svg)
 
