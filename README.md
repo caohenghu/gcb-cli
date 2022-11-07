@@ -1,22 +1,22 @@
 # gcb-cli
 
-It means `git checkout -b`.
+It means `git checkout -b`
 
 ## Install
 
 ```sh
-npm i -g @caohenghu/gcb-cli
+$ npm i -g @caohenghu/gcb-cli
 ```
 
 ## Usage
 
 ```sh
-gcb-cli zzz
+$ gcb-cli zzz
 ```
 
 Will create a formatted branch like this `20221104_ygp-mall-pc-static_zzz`, the format is `date_directory_name`.
 
-![preview](https://s2.loli.net/2022/11/05/rK9q1sSz35LUnbQ.gif)
+![preview](https://cdn.staticaly.com/gh/caohenghu/resource@master/gcb-cli.6dc0y0j6cj40.svg)
 
 ## Windows
 
